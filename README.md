@@ -18,3 +18,5 @@ Finally, there is a folder for QB Clustering. This folder takes the values of Pl
 
 
 ![Andrew Luck  Seasons](https://user-images.githubusercontent.com/81538390/151229760-275a8b4e-0e48-47e2-89d8-a51cdfa21d36.png)
+
+Also check out my Shiny app tool for WAR: https://seththedatascientist.shinyapps.io/WAR_positiongroup/
