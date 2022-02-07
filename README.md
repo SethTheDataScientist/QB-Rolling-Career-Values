@@ -1,6 +1,8 @@
 # QB-Rolling-Career-Values
 Welcome! This is my attempt to answer the hardest question in football; is your Quarterback good enough?
 
+Check out my Shiny App to mess with these plots yourself: https://seththedatascientist.shinyapps.io/QB_Structure_Vs_Playmaker/
+
 The first folder is WAR-EPA. These plots represent my homebrew version of PFF's Wins Above Replacement value as well as the Opponent and Win Probability adjusted Expected Points Added per play by game. The values are a rolling career average on a percentile scale from all QB's from 2011-2021. There is a decaying weight for the first 8 games in the sample just to help smooth out the beginning of the graph.
 
 
